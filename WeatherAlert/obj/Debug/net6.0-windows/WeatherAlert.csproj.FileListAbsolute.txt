@@ -1,0 +1,17 @@
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\bin\Debug\net6.0-windows\WeatherAlert.exe
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\bin\Debug\net6.0-windows\WeatherAlert.deps.json
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\bin\Debug\net6.0-windows\WeatherAlert.runtimeconfig.json
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\bin\Debug\net6.0-windows\WeatherAlert.dll
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\bin\Debug\net6.0-windows\WeatherAlert.pdb
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.csproj.AssemblyReference.cache
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.Form1.resources
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.csproj.GenerateResource.cache
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.AssemblyInfoInputs.cache
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.AssemblyInfo.cs
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.csproj.CoreCompileInputs.cache
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.dll
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\refint\WeatherAlert.dll
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.pdb
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\WeatherAlert.genruntimeconfig.cache
+C:\Users\janum\source\repos\WeatherAlert\WeatherAlert\obj\Debug\net6.0-windows\ref\WeatherAlert.dll
